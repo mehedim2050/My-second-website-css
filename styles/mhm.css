@@ -6,3 +6,10 @@ div{
 #boy{
     background-color: burlywood;
 }
+
+img{
+    width: 150px ;
+   border-radius: 20px;
+   padding: 10px;
+   border: 20px;
+  
